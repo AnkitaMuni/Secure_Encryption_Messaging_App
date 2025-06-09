@@ -1,4 +1,4 @@
-# Secure Chat App using AES Encryption (Python Sockets)
+# Secure Encryption Messaging App
 
 This is a secure chat application built in Python using **socket programming**. It supports **AES encryption** using a shared key stored in `aes_key.bin`. Both client and server can communicate securely with encrypted messages.
 
